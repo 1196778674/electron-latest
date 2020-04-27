@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.3
 files:
-  - url: 58COIN-1.0.1.dmg
-    sha512: 4hRvrRZWPvGN5q4zC66FQADcCTlteIOGgLSjSsJcaXvXJWDhKS5G3OGf27c0imQEJxG6yP8bQ77qk1WldUTb+A==
-    size: 62344566
-path: 58COIN-1.0.1.dmg
-sha512: 4hRvrRZWPvGN5q4zC66FQADcCTlteIOGgLSjSsJcaXvXJWDhKS5G3OGf27c0imQEJxG6yP8bQ77qk1WldUTb+A==
-releaseDate: '2020-04-22T06:10:44.613Z'
+  - url: 58COIN-1.0.3.dmg
+    sha512: zAJfKG5HKYTwKVqKCuwJvw/Erg5L7lfburg7ovHMvznML/tqXnBcaTA+WXzOUvQ8GZ2Z22m11d+g+iRjM+Y9yg==
+    size: 63577206
+path: 58COIN-1.0.3.dmg
+sha512: zAJfKG5HKYTwKVqKCuwJvw/Erg5L7lfburg7ovHMvznML/tqXnBcaTA+WXzOUvQ8GZ2Z22m11d+g+iRjM+Y9yg==
+releaseDate: '2020-04-27T07:43:15.950Z'
